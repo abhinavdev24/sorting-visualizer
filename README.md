@@ -10,4 +10,4 @@ c++ program that uses opengl to visualize different sorting algorithm and their 
 - GLUT - The OpenGL Utility Toolkit - https://www.opengl.org/resources/libraries/glut/
 
 ## Execution
-compile run the sortinVisualizer.cpp file
+compile and run the sortinVisualizer.cpp file
